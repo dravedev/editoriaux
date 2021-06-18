@@ -1,0 +1,1 @@
+  - [L'investissement collectif en technologie pour permettre la croissance des revenus des PME quebécois](edito/investissement-pour-revenus.md)
